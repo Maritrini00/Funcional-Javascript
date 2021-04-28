@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "descripcion": "cheetos",
+        "precio": 15,
+        "existencia": 20,
+        "clasificacion": "alimentos no perecederos",
+        "maxStock": 50,
+        "minStock": 10
+    },
+    {
+        "id": 2,
+        "descripcion": "cartera de huevos",
+        "precio": 60,
+        "existencia": 18,
+        "clasificacion": "canasta basica",
+        "maxStock": 31,
+        "minStock": 5
+    },
+    {
+        "id": 3,
+        "descripcion": "jabon en polvo",
+        "precio": 12.50,
+        "existencia": 25,
+        "clasificacion": "limpieza",
+        "maxStock": 45,
+        "minStock": 9
+    },
+    {
+        "id": 4,
+        "descripcion": "calabacitas",
+        "precio": 10,
+        "existencia": 50,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 100,
+        "minStock": 10
+    },
+    {
+        "id": 5,
+        "descripcion": "atun",
+        "precio": 11.20,
+        "existencia": 45,
+        "clasificacion": "alimentos enlatados",
+        "maxStock": 80,
+        "minStock": 1
+    },
+    {
+        "id": 6,
+        "descripcion": "papel de baño",
+        "precio": 21,
+        "existencia": 10,
+        "clasificacion": "canasta basica",
+        "maxStock": 60,
+        "minStock": 2
+    },
+    {
+        "id": 7,
+        "descripcion": "desodorante",
+        "precio": 30.50,
+        "existencia": 20,
+        "clasificacion": "higiene",
+        "maxStock": 35,
+        "minStock": 5
+    },
+    {
+        "id": 8,
+        "descripcion": "manzanas",
+        "precio": 15.90,
+        "existencia": 100,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 120,
+        "minStock": 4
+    },
+    {
+        "id": 9,
+        "descripcion": "naranjas",
+        "precio": 14.90,
+        "existencia": 99,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 120,
+        "minStock": 10
+    },
+    {
+        "id": 10,
+        "descripcion": "shile shilaca",
+        "precio": 8.80,
+        "existencia": 80,
+        "clasificacion": "aliementos perecederos",
+        "maxStock": 110,
+        "minStock": 9
+    },
+    {
+        "id": 11,
+        "descripcion": "mazapan",
+        "precio": 10,
+        "existencia": 20,
+        "clasificacion": "dulces",
+        "maxStock": 150,
+        "minStock": 1
+    },
+    {
+        "id": 12,
+        "descripcion": "pinol",
+        "precio": 13.50,
+        "existencia": 50,
+        "clasificacion": "limpieza",
+        "maxStock": 80,
+        "minStock": 10
+    }
+]
