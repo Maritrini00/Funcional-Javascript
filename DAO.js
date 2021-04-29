@@ -22,7 +22,7 @@ class DAO{
         return this.productData.filter(producto =>producto.precio > precio1 && producto.precio < precio2);
     }
 
-    mismaClasificación(clas){
+    mismaClasificacion(clas){
         return this.productData.filter(producto => producto.clas === clasificacion);
     }
 }
