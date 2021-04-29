@@ -6,11 +6,11 @@ class DAO{
         this.productData = JSON.parse(contents);
     }
 
-    ExistentesMayor(existe){
+    existentesMayor(existe){
         return this.productData.filter(producto =>producto.existencia >existe);
     }
 
-    ExistentesMenor(existe){
+    existentesMenor(existe){
         return this.productData.filter(producto => producto.existencia <existe);
     }
 
@@ -23,7 +23,7 @@ class DAO{
     }
 
     mismaClasificacion(clas){
-        return this.productData.filter(producto => producto.clas === clasificacion);
+        return this.productData.filter(producto => producto.clasificacion === clas);
     }
 }
 
