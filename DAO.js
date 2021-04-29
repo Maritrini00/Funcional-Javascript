@@ -10,7 +10,7 @@ class DAO{
         return this.productData.filter(producto =>producto.existencia >existe);
     }
 
-    ExistentesMayor(existe){
+    ExistentesMenor(existe){
         return this.productData.filter(producto => producto.existencia <existe);
     }
 
