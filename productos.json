@@ -4,7 +4,7 @@
         "descripcion": "cheetos",
         "precio": 15,
         "existencia": 20,
-        "clasificacion": "alimentos no perecederos",
+        "clasificacion": "snacks",
         "maxStock": 50,
         "minStock": 10
     },
@@ -104,6 +104,618 @@
         "precio": 13.50,
         "existencia": 50,
         "clasificacion": "limpieza",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 13,
+        "descripcion": "chicharron",
+        "precio": 14,
+        "existencia": 80,
+        "clasificacion": "snacks",
+        "maxStock": 140,
+        "minStock": 2
+    },
+    {
+        "id": 14,
+        "descripcion": "jabon zote",
+        "precio": 7,
+        "existencia": 98,
+        "clasificacion": "limpieza",
+        "maxStock": 115,
+        "minStock": 6
+    },
+    {
+        "id": 15,
+        "descripcion": "jabón rosa venus",
+        "precio": 8.90,
+        "existencia": 20,
+        "clasificacion": "higiene personal",
+        "maxStock": 150,
+        "minStock": 7
+    },
+    {
+        "id": 16,
+        "descripcion": "cerillos",
+        "precio": 13.50,
+        "existencia": 50,
+        "clasificacion": "abarrotes",
+        "maxStock": 200,
+        "minStock": 8
+    },
+    {
+        "id": 17,
+        "descripcion": "mandarinas",
+        "precio": 14.90,
+        "existencia": 20,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 500,
+        "minStock": 20
+    },
+    {
+        "id": 18,
+        "descripcion": "jugo de naranja",
+        "precio": 22,
+        "existencia": 80,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 150,
+        "minStock": 10
+    },
+    {
+        "id": 19,
+        "descripcion": "yogurt",
+        "precio": 18,
+        "existencia": 200,
+        "clasificacion": "lacteos",
+        "maxStock": 250,
+        "minStock": 17
+    },
+    {
+        "id": 20,
+        "descripcion": "queso",
+        "precio": 50,
+        "existencia": 150,
+        "clasificacion": "lacteos",
+        "maxStock": 160,
+        "minStock": 10
+    },
+    {
+        "id": 21,
+        "descripcion": "jamón",
+        "precio": 180,
+        "existencia": 40,
+        "clasificacion": "embutidos",
+        "maxStock": 150,
+        "minStock": 10
+    },
+    {
+        "id": 22,
+        "descripcion": "gel antibacterial",
+        "precio": 50,
+        "existencia": 70,
+        "clasificacion": "higiene",
+        "maxStock": 100,
+        "minStock": 3
+    },
+    {
+        "id": 23,
+        "descripcion": "aceite",
+        "precio": 18.50,
+        "existencia": 75,
+        "clasificacion": "alimentos no perecederos",
+        "maxStock": 150,
+        "minStock": 6
+    },
+    {
+        "id": 24,
+        "descripcion": "croquetas",
+        "precio": 78,
+        "existencia": 80,
+        "clasificacion": "animales",
+        "maxStock": 100,
+        "minStock": 1
+    },
+    {
+        "id": 25,
+        "descripcion": "gatorade",
+        "precio": 18,
+        "existencia": 48,
+        "clasificacion": "bebidas energizantes",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 26,
+        "descripcion": "salchicha",
+        "precio": 32,
+        "existencia": 200,
+        "clasificacion": "embutidos",
+        "maxStock": 300,
+        "minStock": 4
+    },
+    {
+        "id": 27,
+        "descripcion": "elotes enlatados",
+        "precio": 15,
+        "existencia": 80,
+        "clasificacion": "enlatados",
+        "maxStock": 120,
+        "minStock": 2
+    },
+    {
+        "id": 28,
+        "descripcion": "galletas chokis",
+        "precio": 28,
+        "existencia": 79,
+        "clasificacion": "galletas",
+        "maxStock": 100,
+        "minStock": 10
+    },
+    {
+        "id": 29,
+        "descripcion": "chokokrispis",
+        "precio": 59,
+        "existencia": 60,
+        "clasificacion": "cereales",
+        "maxStock": 150,
+        "minStock": 12
+    },
+    {
+        "id": 30,
+        "descripcion": "snickers",
+        "precio": 13.50,
+        "existencia": 50,
+        "clasificacion": "dulces",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 31,
+        "descripcion": "milkey way",
+        "precio": 15,
+        "existencia": 57,
+        "clasificacion": "dulces",
+        "maxStock": 200,
+        "minStock": 20
+    },
+    {
+        "id": 32,
+        "descripcion": "pistaches",
+        "precio": 13.50,
+        "existencia": 80,
+        "clasificacion": "snacks",
+        "maxStock": 100,
+        "minStock": 2
+    },
+    {
+        "id": 33,
+        "descripcion": "cacahuates",
+        "precio": 15,
+        "existencia": 90,
+        "clasificacion": "snacks",
+        "maxStock": 150,
+        "minStock": 3
+    },
+    {
+        "id": 34,
+        "descripcion": "almendras",
+        "precio": 40,
+        "existencia": 50,
+        "clasificacion": "snacks",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 35,
+        "descripcion": "jabon para la ropa",
+        "precio": 56,
+        "existencia": 85,
+        "clasificacion": "higiene",
+        "maxStock": 140,
+        "minStock": 10
+    },
+    {
+        "id": 36,
+        "descripcion": "trapeador",
+        "precio": 20,
+        "existencia": 50,
+        "clasificacion": "limpieza",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 37,
+        "descripcion": "escoba",
+        "precio": 10,
+        "existencia": 20,
+        "clasificacion": "limpieza",
+        "maxStock": 150,
+        "minStock": 1
+    },
+    {
+        "id": 38,
+        "descripcion": "shampoo",
+        "precio": 45,
+        "existencia": 100,
+        "clasificacion": "higiene",
+        "maxStock": 180,
+        "minStock": 13
+    },
+    {
+        "id": 39,
+        "descripcion": "acondicionador",
+        "precio": 50,
+        "existencia": 90,
+        "clasificacion": "higiene",
+        "maxStock": 150,
+        "minStock": 5
+    },
+    {
+        "id": 40,
+        "descripcion": "crema corporal",
+        "precio": 32,
+        "existencia": 89,
+        "clasificacion": "higiene",
+        "maxStock": 110,
+        "minStock": 10
+    },
+    {
+        "id": 41,
+        "descripcion": "zucaritas",
+        "precio": 60,
+        "existencia": 20,
+        "clasificacion": "cereales",
+        "maxStock": 150,
+        "minStock": 10
+    },
+    {
+        "id": 42,
+        "descripcion": "café",
+        "precio": 13.50,
+        "existencia": 50,
+        "clasificacion": "bebidas",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 43,
+        "descripcion": "arroz",
+        "precio": 15,
+        "existencia": 120,
+        "clasificacion": "alimentos no perecederos",
+        "maxStock": 150,
+        "minStock": 8
+    },
+    {
+        "id": 44,
+        "descripcion": "frijol",
+        "precio": 17,
+        "existencia": 50,
+        "clasificacion": "alimentos no perecederos",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 45,
+        "descripcion": "zanahoria",
+        "precio": 19.90,
+        "existencia": 120,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 150,
+        "minStock": 8
+    },
+    {
+        "id": 46,
+        "descripcion": "papa",
+        "precio": 14,
+        "existencia": 180,
+        "clasificacion": "aliemntos perecederos",
+        "maxStock": 280,
+        "minStock": 10
+    },
+    {
+        "id": 47,
+        "descripcion": "lechuga",
+        "precio": 12,
+        "existencia": 20,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 150,
+        "minStock": 1
+    },
+    {
+        "id": 48,
+        "descripcion": "mamey",
+        "precio": 20,
+        "existencia": 150,
+        "clasificacion": "aliemntos perecederos",
+        "maxStock": 280,
+        "minStock": 9
+    },
+    {
+        "id": 49,
+        "descripcion": "sandía",
+        "precio": 10,
+        "existencia": 130,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 150,
+        "minStock": 10
+    },
+    {
+        "id": 50,
+        "descripcion": "piña",
+        "precio": 25,
+        "existencia": 150,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 280,
+        "minStock": 10
+    },
+    {
+        "id": 51,
+        "descripcion": "tomates",
+        "precio": 10,
+        "existencia": 120,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 150,
+        "minStock": 8
+    },
+    {
+        "id": 52,
+        "descripcion": "gengibre",
+        "precio": 45,
+        "existencia": 50,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 53,
+        "descripcion": "te verde",
+        "precio": 10,
+        "existencia": 20,
+        "clasificacion": "bebidas",
+        "maxStock": 150,
+        "minStock": 1
+    },
+    {
+        "id": 54,
+        "descripcion": "te de manzanilla",
+        "precio": 13.50,
+        "existencia": 50,
+        "clasificacion": "bebidas",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 55,
+        "descripcion": "m&m's",
+        "precio": 13,
+        "existencia": 90,
+        "clasificacion": "dulces",
+        "maxStock": 150,
+        "minStock": 1
+    },
+    {
+        "id": 56,
+        "descripcion": "cuaderno",
+        "precio": 13.50,
+        "existencia": 50,
+        "clasificacion": "articulos escolares",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 57,
+        "descripcion": "borrador",
+        "precio": 10,
+        "existencia": 20,
+        "clasificacion": "articulos escolares",
+        "maxStock": 150,
+        "minStock": 1
+    },
+    {
+        "id": 58,
+        "descripcion": "lapiz",
+        "precio": 13.50,
+        "existencia": 50,
+        "clasificacion": "articulos escolares",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 59,
+        "descripcion": "calculadora",
+        "precio": 100,
+        "existencia": 20,
+        "clasificacion": "artículos escolares",
+        "maxStock": 150,
+        "minStock": 1
+    },
+    {
+        "id": 60,
+        "descripcion": "pinol",
+        "precio": 13.50,
+        "existencia": 50,
+        "clasificacion": "limpieza",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 61,
+        "descripcion": "galletas sponge",
+        "precio": 16,
+        "existencia": 90,
+        "clasificacion": "galletas",
+        "maxStock": 150,
+        "minStock": 19
+    },
+    {
+        "id": 62,
+        "descripcion": "brocoli",
+        "precio": 20.20,
+        "existencia": 150,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 190,
+        "minStock": 10
+    },
+    {
+        "id": 63,
+        "descripcion": "limón",
+        "precio": 35,
+        "existencia": 90,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 150,
+        "minStock": 10
+    },
+    {
+        "id": 64,
+        "descripcion": "cerveza",
+        "precio": 13,
+        "existencia": 150,
+        "clasificacion": "bebidas alcoholicas",
+        "maxStock": 280,
+        "minStock": 10
+    },
+    {
+        "id": 65,
+        "descripcion": "agua embotellada",
+        "precio": 10,
+        "existencia": 140,
+        "clasificacion": "bebidas",
+        "maxStock": 350,
+        "minStock": 14
+    },
+    {
+        "id": 66,
+        "descripcion": "bálsamo labial",
+        "precio": 25,
+        "existencia": 150,
+        "clasificacion": "higiene",
+        "maxStock": 180,
+        "minStock": 10
+    },
+    {
+        "id": 67,
+        "descripcion": "garbanzos",
+        "precio": 16,
+        "existencia": 20,
+        "clasificacion": "alimentos no perecederos",
+        "maxStock": 150,
+        "minStock": 1
+    },
+    {
+        "id": 68,
+        "descripcion": "chile jalapeño",
+        "precio": 22,
+        "existencia": 150,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 290,
+        "minStock": 10
+    },
+    {
+        "id": 69,
+        "descripcion": "chiles curtidos",
+        "precio": 10,
+        "existencia": 20,
+        "clasificacion": "alimentos enlatados",
+        "maxStock": 150,
+        "minStock": 1
+    },
+    {
+        "id": 70,
+        "descripcion": "cloro",
+        "precio": 20,
+        "existencia": 150,
+        "clasificacion": "limpieza",
+        "maxStock": 300,
+        "minStock": 10
+    },
+    {
+        "id": 71,
+        "descripcion": "baterias",
+        "precio": 90,
+        "existencia": 80,
+        "clasificacion": "abarrotes",
+        "maxStock": 100,
+        "minStock": 1
+    },
+    {
+        "id": 72,
+        "descripcion": "yuca",
+        "precio": 33,
+        "existencia": 90,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 120,
+        "minStock": 1
+    },
+    {
+        "id": 73,
+        "descripcion": "melon",
+        "precio": 19,
+        "existencia": 120,
+        "clasificacion": "alimentos perecederos",
+        "maxStock": 150,
+        "minStock": 1
+    },
+    {
+        "id": 74,
+        "descripcion": "ciruela",
+        "precio": 14.50,
+        "existencia": 50,
+        "clasificacion": "aliemntos perecederos",
+        "maxStock": 80,
+        "minStock": 10
+    },
+    {
+        "id": 75,
+        "descripcion": "veladora",
+        "precio": 10,
+        "existencia": 20,
+        "clasificacion": "abarrotes",
+        "maxStock": 150,
+        "minStock": 1
+    },
+    {
+        "id": 76,
+        "descripcion": "encendedor",
+        "precio": 13.80,
+        "existencia": 130,
+        "clasificacion": "abarrotes",
+        "maxStock": 130,
+        "minStock": 9
+    },
+    {
+        "id": 77,
+        "descripcion": "recogedor",
+        "precio": 30,
+        "existencia": 40,
+        "clasificacion": "limpieza",
+        "maxStock": 150,
+        "minStock": 6
+    },
+    {
+        "id": 78,
+        "descripcion": "tocino",
+        "precio": 78,
+        "existencia": 123,
+        "clasificacion": "embutidos",
+        "maxStock": 456,
+        "minStock": 10
+    },
+    {
+        "id": 79,
+        "descripcion": "corta-uñas",
+        "precio": 10,
+        "existencia": 30,
+        "clasificacion": "higiene",
+        "maxStock": 79,
+        "minStock": 1
+    },
+    {
+        "id": 80,
+        "descripcion": "leche",
+        "precio": 28,
+        "existencia": 50,
+        "clasificacion": "lacteos",
         "maxStock": 80,
         "minStock": 10
     }
